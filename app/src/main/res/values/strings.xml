@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Teste Época Normal</string>
+    <string name="add_cart_item_activity">Add Cart Item</string>
+    <string name="main_activity">Shopping cart</string>
+</resources>
